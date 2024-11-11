@@ -54,7 +54,7 @@ class Queue {
 
     size() {
 
-        return this.count;
+        return this.count+1;
     }
 
 }
