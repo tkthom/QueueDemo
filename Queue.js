@@ -57,6 +57,10 @@ class Queue {
         return this.count;
     }
 
+    removeFromEnd() {
+        //TODO: Someone needs to implement this!
+    }
+
 }
 
 module.exports = { Queue };
